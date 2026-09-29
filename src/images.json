@@ -1,0 +1,1125 @@
+{
+ "contact": {
+  "w": 1280,
+  "h": 1920,
+  "widths": [
+   640,
+   1200
+  ]
+ },
+ "film-01": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-02": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-03": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-04": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-05": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-06": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-07": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-08": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "film-09": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-01": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-02": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-03": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-04": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-05": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-06": {
+  "w": 1920,
+  "h": 2889,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-07": {
+  "w": 1920,
+  "h": 2883,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-08": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-09": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-akshita-rajat-a-lovestory-from-toronto-downtown-10": {
+  "w": 1920,
+  "h": 3055,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-01": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-02": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-03": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-04": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-05": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-06": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-07": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-08": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-09": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-aman-mrinal-10": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-01": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-02": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-03": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-04": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-05": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-06": {
+  "w": 1920,
+  "h": 2960,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-07": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-08": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-09": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-deep-payal-10": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-01": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-02": {
+  "w": 1920,
+  "h": 2881,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-03": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-04": {
+  "w": 1920,
+  "h": 2837,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-05": {
+  "w": 1920,
+  "h": 2881,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-06": {
+  "w": 1920,
+  "h": 2881,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-07": {
+  "w": 1920,
+  "h": 2881,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-08": {
+  "w": 1920,
+  "h": 1266,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-09": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-nooreen-jugraj-10": {
+  "w": 1920,
+  "h": 2881,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-01": {
+  "w": 1920,
+  "h": 2879,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-02": {
+  "w": 1920,
+  "h": 2879,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-03": {
+  "w": 1920,
+  "h": 2879,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-04": {
+  "w": 1920,
+  "h": 2879,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-05": {
+  "w": 1920,
+  "h": 2879,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-06": {
+  "w": 1920,
+  "h": 2926,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-07": {
+  "w": 1920,
+  "h": 2926,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-08": {
+  "w": 1920,
+  "h": 2926,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-09": {
+  "w": 1920,
+  "h": 2926,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-raman-akash-love-straight-outta-panjab-10": {
+  "w": 1920,
+  "h": 2879,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-01": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-02": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-03": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-04": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-05": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-06": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-07": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-08": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-09": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-fashion-vault-10": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-the-house-of-rituals-india-01": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-02": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-03": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-04": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-05": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-06": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-07": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-08": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-09": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-the-house-of-rituals-india-10": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-01": {
+  "w": 1920,
+  "h": 1278,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-02": {
+  "w": 1920,
+  "h": 2836,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-03": {
+  "w": 1920,
+  "h": 2932,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-04": {
+  "w": 1920,
+  "h": 1285,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-05": {
+  "w": 1920,
+  "h": 2886,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-06": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-07": {
+  "w": 1920,
+  "h": 1302,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-08": {
+  "w": 1920,
+  "h": 2863,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-09": {
+  "w": 1920,
+  "h": 1289,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "gallery-varinder-param-at-noor-mahal-10": {
+  "w": 1920,
+  "h": 2932,
+  "widths": [
+   640,
+   1600
+  ]
+ },
+ "home-01": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-02": {
+  "w": 1920,
+  "h": 1320,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-03": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-04": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-05": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-06": {
+  "w": 1920,
+  "h": 2707,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-07": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-08": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "home-09": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-10": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-11": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-12": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-13": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-14": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-15": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-16": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-17": {
+  "w": 1920,
+  "h": 2881,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-18": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-19": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-20": {
+  "w": 1920,
+  "h": 2881,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-21": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   640,
+   1080
+  ]
+ },
+ "home-22": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-23": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-24": {
+  "w": 1920,
+  "h": 1280,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-25": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-26": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-27": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "home-28": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1080,
+   1800
+  ]
+ },
+ "investment": {
+  "w": 1920,
+  "h": 2880,
+  "widths": [
+   640,
+   1200,
+   1800
+  ]
+ },
+ "review-01": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-02": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-03": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-04": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-05": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-06": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-07": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-08": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "review-09": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "work-akshita-rajat-a-lovestory-from-toronto-downtown": {
+  "w": 1920,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1400
+  ]
+ },
+ "work-aman-mrinal": {
+  "w": 1920,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1400
+  ]
+ },
+ "work-deep-payal": {
+  "w": 1920,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1400
+  ]
+ },
+ "work-nooreen-jugraj": {
+  "w": 1920,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1400
+  ]
+ },
+ "work-raman-akash-love-straight-outta-panjab": {
+  "w": 1920,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1400
+  ]
+ },
+ "work-the-fashion-vault": {
+  "w": 1920,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1400
+  ]
+ },
+ "work-the-house-of-rituals-india": {
+  "w": 1280,
+  "h": 1280,
+  "widths": [
+   480,
+   960,
+   1280
+  ]
+ },
+ "work-varinder-param-at-noor-mahal": {
+  "w": 1920,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1400
+  ]
+ }
+}
